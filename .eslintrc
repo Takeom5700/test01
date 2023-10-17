@@ -1,0 +1,7 @@
+{
+    "extends": "next/core-web-vitals", 
+     // ↓これを追記する！
+    "rules": {
+      "@next/next/no-img-element": "off"
+    }
+  }
